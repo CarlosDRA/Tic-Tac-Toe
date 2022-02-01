@@ -36,13 +36,27 @@ No installation needed.
 
 ## Steps
 
+### HTML
+I will be using the BEM methodology to have a good structure when naming classes and IDs.
+
+### CSS
+Sass helps us to create modular styles so we can divide our style rules by different components/sections of the page.
+Within our styles folder I will create a **sass** folder to separate our style rules.
+I will use the *7-1 Pattern*, as it's name suggest, this pattern helps us to divide our rules in 7 different folders based on functionality, and one main file that will host the needed modules to convert to normal css.
+
+### JavaScript
+
 
 ## Troubleshooting
 
 
 ## References
 
+[BEM methodology](http://getbem.com/introduction/)
+
 [Sass preprocessor](https://sass-lang.com/guide)
+
+[The 7-1 Pattern](https://sass-guidelin.es/#the-7-1-pattern)
 
 [IIFE (Immediately Invoked Function Expression)](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 
